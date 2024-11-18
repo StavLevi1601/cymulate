@@ -1,4 +1,3 @@
-# cymulate
 # Phishing Simulation Project 🎣
 
 A comprehensive web application for conducting phishing awareness tests using modern technologies. This project allows organizations to assess and improve their security awareness through controlled phishing simulations.
